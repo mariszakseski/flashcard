@@ -75,19 +75,4 @@ body {
     font-size: 0.6rem;
     margin-top: 0.5rem;
   }
-  @import url('https://fonts.googleapis.com/css2?family=Tomorrow&display=swap');
-  
-  :root{
-    --text-color: #ffffff;
-    --card-front-color: #144480;
-    --card-back-color: #51BBA9;
-  }
-  
-  body {
-  …    height: 2rem;
-    }
-    footer p {
-      text-align: center;
-      font-size: 0.6rem;
-      margin-top: 0.5rem;
-    }
+ 
